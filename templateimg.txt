@@ -1,0 +1,5 @@
+D:\livdet\2021\GreenBit\1_24_0\Live\FLAT_INDEX_LEFT_1.png
+D:\livdet\2021\GreenBit\1_24_0\Live\FLAT_INDEX_RIGHT_5.png
+D:\livdet\2021\GreenBit\1_24_0\Live\FLAT_LITTLE_RIGHT_5.png
+D:\livdet\2021\GreenBit\1_24_0\Fake\FLAT_MIDDLE_RIGHT_3.png
+D:\livdet\2021\GreenBit\1_24_0\Fake\FLAT_MIDDLE_RIGHT_4.png
